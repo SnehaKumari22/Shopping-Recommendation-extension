@@ -19,3 +19,4 @@ Click on one of the recommended items from the list.
 Navigate to the shopping website and start shopping!
 
 
+Credits: The cropping functionality of the plugin has been forked and modified from  https://github.com/VirtexEdgeDesign/3C-Crop-Capture-Create
